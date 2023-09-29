@@ -32,3 +32,7 @@ Benjamin Hochberg procedure for multiple correction
 ### 1. ANOVA Test
 
 ### 2. Kruskal Wallis Test
+
+
+### Testing relations between variables
+A statistical test is used to determine if two or more samples or variables behave similarly or not. It cannot explain why the samples or variables behave like they do.
