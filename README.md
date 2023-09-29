@@ -29,5 +29,6 @@ Benjamin Hochberg procedure for multiple correction
 
 ### Multiple Variable Tests
 
-###1. ANOVA Test
-###2. Kruskal Wallis Test
+### 1. ANOVA Test
+
+### 2. Kruskal Wallis Test
